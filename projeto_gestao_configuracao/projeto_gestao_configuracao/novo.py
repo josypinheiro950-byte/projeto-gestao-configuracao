@@ -2,7 +2,7 @@
 
 
 def mensagem_inicial():
-    return "Projeto de gestão de configuração iniciado."
+    return "Projeto de gestão de configuração atualizado com sucesso."
 
 
 if __name__ == "__main__":
